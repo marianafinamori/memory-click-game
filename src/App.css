@@ -1,0 +1,54 @@
+body {
+  font-family: "Playfair Display";
+  background-color: black;
+}
+
+.header {
+  color: black;
+  background-color: white;
+  opacity: 0.9;
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+  border-bottom: 1px solid  black;
+  opacity: 0.85;
+}
+#memory-game-title,
+#score-container,
+#topscore-container,
+#message-container {
+  text-align: center;
+}
+
+#score-container,
+#topscore-container {
+  font-size: 23px;
+}
+
+.nav-item {
+  margin-right: 3%;
+}
+
+.main-container {
+  padding: 0;
+  opacity: 0.9;
+  padding-right: 2%;
+  border-radius: 8px;
+  /* background-color: white;
+  opacity: 0.9; */
+}
+
+img {
+  display: inline-block;
+  /* border: 1px solid lightgray; */
+  border-radius: 6px;
+  padding: 3%;
+  height: 160px;
+  width: auto;
+  margin: 10%;
+}
+
+.justify-content-around {
+  background-color: white;
+  /* opacity: 1; */
+}
+

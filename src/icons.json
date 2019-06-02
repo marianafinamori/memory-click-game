@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "kate",
+      "src": "https://vg-images.condecdn.net/image/q75qx29bYMM/crop/1620/f/003-kate-moss-vogue-int-credit-mario-sorrenti-phaidon.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "alexa",
+      "src": "https://media.timeout.com/images/100660977/630/472/image.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "basquiat",
+      "src": "https://cdn.theatlantic.com/assets/media/img/2018/06/04/BOB_Metcalf_Basquiat_lead/1920.jpg?1528416882",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "bowie",
+      "src": "https://media.pitchfork.com/photos/5cc32f2ffa43fd0cac066e3e/2:1/w_790/David-Bowie.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "kurt",
+      "src": "https://anotherimg-dazedgroup.netdna-ssl.com/933/azure/another-prod/290/8/298193.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "dylan",
+      "src": "https://i.pinimg.com/originals/e1/1d/c5/e11dc50a2301566cb83bd78556465830.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "camille",
+      "src": "https://i.dailymail.co.uk/i/pix/2012/07/13/article-2173298-140D6818000005DC-274_634x501.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "clemence",
+      "src": "https://www.theplace2.ru/cache/archive/clemence_poesy/img/37-4-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "freja",
+      "src": "https://cdn.pursuitist.com/wp-content/uploads/2011/09/51856-800w.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "geraldine",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7lfYFPyA_g0Z4J2mkb5NpGcFfELPtETvwKK12lEMgA_OG8IvRw",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "caroline",
+      "src": "https://i.ytimg.com/vi/WvCEYkNu1_I/maxresdefault.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "alfie",
+      "src": "https://pmcdeadline2.files.wordpress.com/2018/06/alfie-allen.jpg?w=681&h=383&crop=1",
+      "clicked": false
+    }
+  ]
